@@ -1,9 +1,9 @@
-# Description
+# 🧹 Description
 - Tugas besar machine learning dengan dataset Telco Customer Churn https://www.kaggle.com/blastchar/telco-customer-churn - [IBM Sample Data Sets].
 - Model yang dibuat, antara lain model klasifikasi untuk target churn dan model regresi untuk target tenure.
 - Hasil setiap model cukup baik, rata-rata diatas 75% untuk akurasi.
 
-# Contributors
+# 🧺 Contributors
 - 1117041 – Alfiyanto Kondolele
 - 1118002 – Steven Wijaya
 - 1118003 – Anthony Wijaya
@@ -11,10 +11,10 @@
 - 1118042 – Yoel Agustinus
 - 1118044 – Reynold Yehezkiel
 
-# Kesan
+# 🍟 Kesan
 Tahap data preprocessing dan evaluasi model adalah tahap yang paling menghabiskan banyak waktu, pikiran, dan tenaga.
 
-# Thanks to
+#  Thanks to
 - Tuhan Yang Maha Esa untuk penyertaan-Nya dalam proyek ini.
 - Ventje Jeremias Lewi Engel, selaku dosen dari matakuliah Machine Learning yang telah membimbing dari awal sampai akhir, sehingga project Machine Learning ini dapat selesai dengan baik.
 - Semua anggota tim yang luar biasa, yang selalu siap meeting tengah malam :)
