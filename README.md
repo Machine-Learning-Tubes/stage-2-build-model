@@ -14,7 +14,7 @@
 # 🍟 Kesan
 Tahap data preprocessing dan evaluasi model adalah tahap yang paling menghabiskan banyak waktu, pikiran, dan tenaga.
 
-#  Thanks to
+# 👌 Thanks to
 - Tuhan Yang Maha Esa untuk penyertaan-Nya dalam proyek ini.
 - Ventje Jeremias Lewi Engel, selaku dosen dari matakuliah Machine Learning yang telah membimbing dari awal sampai akhir, sehingga project Machine Learning ini dapat selesai dengan baik.
 - Semua anggota tim yang luar biasa, yang selalu siap meeting tengah malam :)
